@@ -1,8 +1,14 @@
 # JSP_Tutorial
 
-# ex1 - 지역변수와 전역변수 차이점
+* ex1 - 지역변수와 전역변수 차이점
+* ex2 - 전역변수는 선언문, 지역변수와 연산식 스크립트릿 사용
+* ex4,4-1 -1차원 배열 및 for문
+* ex5,5-1 -클래스와 메소드 정의 및 사용
+* ex7 - if_else문 사용
 
-## Code
+## ex1 - 지역변수와 전역변수 차이점
+
+### Code
 ```
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
@@ -29,6 +35,8 @@ out.print("local_var =" + ++local_var + "<p>" );
 </body>
 </html>
 ```
+### 실행결과
+
 
 
 
